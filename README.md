@@ -32,7 +32,7 @@ Alternative, hip-hop, and rap lead in average energy levels, indicating that the
 
 Pop and Unknown genres show slightly lower energy levels.
 
-Danceability by Genre
+### Danceability by Genre
 
 Rap, hip-hop, and Unknown are the most danceable.
 
