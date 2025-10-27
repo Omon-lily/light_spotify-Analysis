@@ -12,6 +12,12 @@ This analysis explores a diverse Spotify dataset to uncover trends in genre char
 <img width="615" height="348" alt="Screenshot 2025-07-31 154920" src="https://github.com/user-attachments/assets/47365b7d-783e-4f5f-bb97-1a32b392bfd7" />
 
 
+<img width="618" height="348" alt="Screenshot 2025-07-31 154812" src="https://github.com/user-attachments/assets/e7cdd946-c88a-4b51-808b-98e07daaddb8" />
+
+
+
+<img width="615" height="348" alt="Screenshot 2025-07-31 154920" src="https://github.com/user-attachments/assets/5ae772ab-f33d-4483-8003-753894a74727" />
+
 
 
 
