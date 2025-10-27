@@ -38,13 +38,13 @@ Rap, hip-hop, and Unknown are the most danceable.
 
 Alternative is the least danceable, suggesting a more contemplative or experimental style.
 
-Tempo & Loudness by Genre
+### Tempo & Loudness by Genre
 
 Metal has the highest average tempo and loudness.
 
 Folk and soundtrack genres are softer and slower, with low loudness and tempo.
 
-Positive Songs by Genre
+### Positive Songs by Genre
 
 Pop and Unknown genres contain the highest count of positive songs.
 
